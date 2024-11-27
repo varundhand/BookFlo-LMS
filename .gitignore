@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+virtualenv/
+myenv/
+ENV/
+env/
+
+# Flask instance folder
+instance/
+
+# Flask cache files
+*.pyc
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Database and migrations
+*.sqlite3
+*.db
+*.db-journal
+migrations/
+
+# Static files
+staticfiles/
+static/*
+
+# Compiled or minified files (optional if you're building frontend assets)
+*.css.map
+*.js.map
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# HTML reports or temporary files
+*.html~
+
+# Others
+*.bak
