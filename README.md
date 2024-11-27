@@ -1,5 +1,9 @@
 # BookFlo - Library Management System V2
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c7b45c0f-ade7-45e6-8bef-b3703e4c8a18" alt="Screenshot" width="444">
+</div>
+
 **BookFlo** is a multi-user application designed to issue, grant/revoke, and maintain e-books across various sections, like an online library. This project demonstrates an efficient, scalable, and interactive library management system built using Flask, SQLite, and other frameworks.
 
 ---
